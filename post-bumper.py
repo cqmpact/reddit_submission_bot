@@ -1,3 +1,6 @@
+# TO USE THIS BOT YOU MUST SET CRON TO EACH ? OF HOURS YOU WANT THE POST TO BE BUMPED AT
+# https://crontab.guru/
+
 import praw
 import re
 
