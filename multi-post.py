@@ -1,3 +1,6 @@
+# USE CRON FOR ? HOURS
+# https://crontab.guru/
+
 import praw
 import re
 import time
