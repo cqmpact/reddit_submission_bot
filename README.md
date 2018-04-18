@@ -1,5 +1,5 @@
 # REDDIT SUBMISSION BOT (SUPPORTS MULTI-POST!)
-made by DrRoach
+made by DrRoach (tweaked by 4ZUR4)
 
 https://www.youtube.com/watch?v=ujflrixMl8I
 
